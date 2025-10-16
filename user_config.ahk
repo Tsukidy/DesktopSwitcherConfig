@@ -45,7 +45,7 @@
 #o::switchDesktopToLeft()
 #s::switchDesktopToRight()
 #a::switchDesktopToLeft()
-#tab::switchDesktopToLastOpened()
+#`::switchDesktopToLastOpened()
 
 #f::createVirtualDesktop()
 #d::deleteVirtualDesktop()
