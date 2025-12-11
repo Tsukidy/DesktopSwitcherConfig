@@ -1,3 +1,6 @@
+This is just my customized version of the original repository. <br/>
+
+Support the Original Creator of this Project here: <br/>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U82G0A5)
 
 # windows-desktop-switcher
